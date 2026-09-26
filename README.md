@@ -76,7 +76,7 @@ MikuQuiz cuenta con dos modalidades dinámicas adaptadas al ritmo de cada sala, 
 
 ## Mecánicas de Juego
 >## Packs de Preguntas
->[link](https://github.com/k4927789-wq/Preguntas)
+>[link](https://github.com/ZORRITA-Prog/Preguntas)
 
 >## ImMiku
 >[web](inmiku.infinityfreeapp.com)
